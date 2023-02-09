@@ -35,6 +35,7 @@ Command - Search Apple
 
 Command - Exit 
 
+![Screenshot (85)](https://user-images.githubusercontent.com/88131508/217766021-2814564a-a509-4150-a123-9dd5b3549950.png)
 
 
 
