@@ -33,6 +33,8 @@ Command - Search Apple
 
 ![Screenshot (83)](https://user-images.githubusercontent.com/88131508/217765431-a8951409-33b1-4d0d-86fb-bffc7b0174f6.png)
 
+Command - Exit 
+
 
 
 
