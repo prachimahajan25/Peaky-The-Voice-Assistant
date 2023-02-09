@@ -29,6 +29,11 @@ Command -Play Love Story(Song)
 
 ![Screenshot (82)](https://user-images.githubusercontent.com/88131508/217758584-c2df168f-351c-400f-b41c-983a464912cd.png)
 
+Command - Search Apple
+
+![Screenshot (83)](https://user-images.githubusercontent.com/88131508/217765431-a8951409-33b1-4d0d-86fb-bffc7b0174f6.png)
+
+
 
 
 
