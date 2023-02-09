@@ -27,6 +27,8 @@ Command - Open Word
 
 Command -Play Love Story(Song)
 
+![Screenshot (82)](https://user-images.githubusercontent.com/88131508/217758584-c2df168f-351c-400f-b41c-983a464912cd.png)
+
 
 
 
