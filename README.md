@@ -14,6 +14,14 @@ pip install pyQt5-tools
 
 Qt designer can be used for simplicity of front-end
 
+## Keywords to speak after making the program run :
+
+play --> youtube
+search --> google
+open --> desktop application
+greetings like Hello --> will be replied by bot
+
+Moreover many inbuilt commands are also added and if the bot doesnt know the answer to your command,it will ask if you want a google search of your question.You have to reply yes or no.If you have replied yes it will search that on google.
 
 ## Videos and Images
 
