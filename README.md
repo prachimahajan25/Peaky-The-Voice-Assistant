@@ -6,6 +6,8 @@ Python
 
 Library used:PyQt5(and Qt designer is used)
 
+## Installing the packages
+
 pip install pyQt5
 
 pip install pyQt5-tools
